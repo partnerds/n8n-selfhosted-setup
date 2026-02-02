@@ -1,6 +1,8 @@
 # 🚀n8n-selfhosted-setup con Docker
 repositorio de n8n selfhosted en linux
 
+El video completo de la instalación de n8n selfhosted se encuentra en este link: https://youtu.be/0iLETHA_ShQ
+
 Guía completa para instalar **n8n** en un servidor Linux usando Docker y acceder de forma segura desde otro equipo a través de Tailscale.
 
 Incluye problemas reales encontrados durante la instalación y sus soluciones.
